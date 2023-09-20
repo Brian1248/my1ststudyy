@@ -1,0 +1,15 @@
+print("       Bshop invoice       ")
+print("tax#123456789 vat code 124 ")
+print("--------------------------------")
+print("banana            x 1 :   8 THB")
+print("banana cake       x 4 :  78 THB")
+print("banana split      x 1 : 148 THB")
+print("banoffee caramel  x 1 :  87 THB")
+print("cinnamon roll     x 1 :  48 THB")
+print("cheesecake        x 2 : 180 THB")
+print("banana pie        x 1 : 190 THB")
+print("chocolate truffle x 1 : 180 THB")
+print("--------------------------------")
+print("Total                 : 919 THB")
+
+
